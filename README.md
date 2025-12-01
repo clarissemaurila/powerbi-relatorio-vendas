@@ -1,12 +1,12 @@
 # Relatório de Vendas – Power BI
 
-Este repositório contém um dashboard de vendas desenvolvido em **Power BI**, com foco em análise de:
+Este repositório contém um dashboard de vendas desenvolvido em **Power BI**, com foco em:
 
-- Faturamento por ano  
-- Meta x Realizado (2017, 2018, 2019)  
-- Faturamento por forma de pagamento (dinheiro, cartão crédito, cartão débito, pix)  
+- Faturamento anual  
+- Meta x Realizado  
+- Formas de pagamento (dinheiro, crédito, débito e pix)  
 - Faturamento x cancelamento  
-- Resumo por cartões (crédito x débito)  
+- Resumo por cartões  
 - Desempenho por vendedor e por campus  
 
 ---
@@ -25,21 +25,24 @@ Este repositório contém um dashboard de vendas desenvolvido em **Power BI**, c
 
 - Arquivo principal: `controle_de_vendas.pbix`
 
+### **Como abrir**
+
 > 🔎 Observação: o GitHub não permite visualizar arquivos .PBIX na web.
 > Para abrir o relatório, faça o download e abra no Power BI Desktop.
 
-> ⚠️ Os dados utilizados neste relatório foram ajustados para fins de estudo (portfólio).  
-> Nenhuma informação sensível ou confidencial é exposta neste repositório.
+> ⚠️ Os dados utilizados foram ajustados para fins de estudo (portfólio).  
+> Nenhuma informação sensível é exposta neste repositório.
 
 ---
 
 ## 🎯 Objetivo do Projeto
 
-- Treinar criação de dashboards no Power BI  
-- Construir um projeto para **portfólio** na área de **Análise de Dados / BI**  
-- Explorar:  
-  - Medidas DAX simples  
-  - Segmentações por ano, vendedor, forma de pagamento e campus  
+- Treinar construção de dashboards  
+- Criar um projeto para **portfólio**  
+- Explorar:
+  - Medidas DAX básicas  
+  - Segmentações diversas  
+  - Análises comparativas (ano, vendedor, campus, pagamento)  
   - Visualização de metas e desempenho  
 
 ---
@@ -47,12 +50,12 @@ Este repositório contém um dashboard de vendas desenvolvido em **Power BI**, c
 ## 🛠️ Tecnologias Utilizadas
 
 - **Power BI Desktop**
-- **Power Query (ETL)** para:
-  - Limpeza dos dados  
+- **Power Query (ETL)**  
+  - Limpeza  
   - Transformações  
-  - Criação de colunas calculadas  
-  - Normalização e modelagem básica  
-- **PowerPoint** para criação da capa do relatório  
+  - Colunas calculadas  
+  - Normalização dos dados  
+- **PowerPoint** (capa)
 
 ---
 
@@ -60,3 +63,4 @@ Este repositório contém um dashboard de vendas desenvolvido em **Power BI**, c
 
 **Clarisse Maurila** – Analista de Dados  
 🔗 LinkedIn: https://www.linkedin.com/in/clarissemaurila-dados/
+
